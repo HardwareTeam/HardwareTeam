@@ -22,3 +22,5 @@ Developer:Executor#8610
 Assistant Developer:Vader.exe#8641
 
 Άμεσα στην διαθεσιμότητα σας!
+
+Discord Link: https://discord.link/hardwareteam
