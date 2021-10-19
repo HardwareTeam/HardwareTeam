@@ -14,8 +14,11 @@
 Η ομάδα μας αποτελίτε απο τα παρακάτω μέλοι:
 
 Head Developer:!Marios#2474
+
 Manager-Developer:!El_Diablo#9742
+
 Developer:Executor#8610
+
 Assistant Developer:Vader.exe#8641
 
 Άμεσα στην διαθεσιμότητα σας!
